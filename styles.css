@@ -1,0 +1,14 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
+#css {
+  background: #cecece;
+  width: 100vw;
+  height: 30vh;
+}
+#footer {
+  height: 20vh;
+  font-weight: bolder;
+}
